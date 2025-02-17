@@ -1,0 +1,6 @@
+{
+  "name": "instagram-redirect",
+  "version": "1.0.0",
+  "description": "A simple redirect service for Instagram API to localhost",
+  "main": "api/redirect.js"
+}
